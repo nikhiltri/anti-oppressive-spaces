@@ -1,4 +1,4 @@
-# Creating Anti-Oppressive Spaces Online
+# Creating Anti-Oppressive Spaces Online 
 
 This project contains a set of tools that museum workers can use to
 ensure that our projects remain as inclusive as possible. Here's what
